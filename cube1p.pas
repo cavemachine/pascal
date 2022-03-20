@@ -1,6 +1,7 @@
 Program cube1p;
 
 {---- cube using vanishing point calculation ----}
+{--- line to make new test commit ---}
 
 uses Graph, Crt;
 const
